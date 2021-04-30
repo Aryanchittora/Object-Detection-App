@@ -11,7 +11,7 @@ body {
 canvas {
     border-radius: 10px;
     box-shadow: 5px 10px 10px lightgray;
-    margin-top: 100px;
+    margin-top: 200px;
 }
 #status , #object_no {
     font-size: 18px !important;
